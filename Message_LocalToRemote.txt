@@ -1,1 +1,1 @@
-Sample text file that has been pushed from Local Repository(main) to Remote Repository(origin).
+Sample text file that has been pushed from Local Repository(main) to Remote Repository(origin) and changed in GitHub
